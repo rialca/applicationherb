@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1556777770,
+	"version": 1556951453,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -9,7 +9,6 @@
 		"images/sprite-sheet0.png",
 		"images/menu-sheet0.png",
 		"images/sprite2-sheet0.png",
-		"images/instruction-sheet0.png",
 		"images/sprite6-sheet0.png",
 		"images/scroll-sheet0.png",
 		"images/herb-sheet0.png",
@@ -45,10 +44,11 @@
 		"images/sprite11-sheet0.png",
 		"images/263048miscellaneouselements-sheet0.png",
 		"images/manager-sheet0.png",
-		"images/sprite12-sheet0.png",
-		"images/sprite13-sheet0.png",
 		"images/speaker-sheet0.png",
 		"images/speaker-sheet1.png",
+		"images/instructionbg-sheet0.png",
+		"images/instruction-sheet0.png",
+		"images/instruction2-sheet0.png",
 		"media/media.io_clapping sound effects.ogg",
 		"media/media.io_bubble pop.ogg",
 		"media/media.io_clapping-audience.ogg",
